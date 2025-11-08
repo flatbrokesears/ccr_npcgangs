@@ -1,0 +1,8 @@
+{
+  "default": [
+    { "model": "g_m_y_ballaorig_01", "weapon": "WEAPON_PISTOL" },
+    { "model": "g_m_y_ballasout_01", "weapon": "WEAPON_PISTOL" },
+    { "model": "g_m_y_mexgang_01", "weapon": "WEAPON_MICROSMG" },
+    { "model": "g_m_m_armgoon_01", "weapon": "WEAPON_SMG" }
+  ]
+}

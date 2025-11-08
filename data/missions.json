@@ -1,0 +1,6 @@
+{
+  "small": ["Quick drop-off: take a package to a contact nearby."],
+  "medium": ["Collect protection money from a local business."],
+  "high": ["Hit a rival lookout and get out clean."],
+  "veryhigh": ["Eliminate a rival lieutenant and dump the car."]
+}
